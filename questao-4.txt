@@ -1,0 +1,21 @@
+Passo 1:
+
+-Ligue o primeiro interruptor e espere alguns minutos.
+-Desligue o primeiro interruptor e ligue o segundo interruptor.
+-Entre na sala onde estão as lâmpadas.
+
+Situação após o Passo 1:
+
+-Se uma lâmpada estiver acesa, então o interruptor que você ligou pela segunda vez controla essa lâmpada.
+-Se a lâmpada estiver apagada, mas ainda estiver quente ao toque, então o interruptor que você ligou pela primeira vez controla essa lâmpada.
+-Se a lâmpada estiver apagada e fria, então o interruptor restante controla essa lâmpada.
+
+Passo 2:
+
+-Volte para sala dos interruptores e ligue um dos dois interruptores restantes.
+-Entre na sala onde estão as lâmpadas.
+
+Situação após o Passo 2:
+
+-Se uma lâmpada estiver acesa, então o interruptor que você ligou antes de entrar na sala é o interruptor correto e interruptor restante liga a lâmpada da sala restante.
+-Se uma lâmpada estiver apagada, então o interruptor que você ligou antes de entrar na sala, liga a lâmpada da sala restante e o interruptor restante liga a sala atual.
